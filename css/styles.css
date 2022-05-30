@@ -11455,7 +11455,7 @@ html {
 .portfolio-img { 
   border: 0.125rem solid rgba(0, 0, 0, 0.125);
     border-radius: 0.5rem;
-    
+    height: 35rem;
 }
 
 /* .portfolio .portfolio-item {
